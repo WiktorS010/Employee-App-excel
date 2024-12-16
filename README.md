@@ -1,4 +1,4 @@
-#Employee Excel App
+# Employee Excel App
 
 LoginThymeleafSB is a Spring Boot application designed as a learning project. It demonstrates how to manage data using Java and MySQL, export data to Excel files, and create a basic CRUD web application with Spring Boot and Thymeleaf. Additionally, the project includes basic user authentication using Spring Security.
 
